@@ -1,0 +1,35 @@
+.mySwiper .swiper-pagination {
+  position: relative;
+  margin-top: 20px; /* Adjust this value to create space between the slides and the pagination */
+  text-align: center;
+}
+
+.card-container {
+  background-color: #fff8e8; /* Light beige background for the card container */
+  border-color: #aab396; /* Muted greenish border color for the card */
+}
+
+.card-img {
+  background-color: #f7eed3; /* Light cream background for the image container */
+}
+
+.card-title {
+  color: #674636; /* Dark brown text color for book titles */
+}
+
+.card-author {
+  color: #aab396; /* Muted greenish color for author text */
+}
+
+.card-price {
+  color: #674636; /* Dark brown color for the price */
+}
+
+.card-button {
+  background-color: #674636; /* Dark brown background color for the button */
+  color: #fff; /* White text color for the button */
+}
+
+.card-button:hover {
+  background-color: #aab396; /* Muted greenish background color on hover */
+}
